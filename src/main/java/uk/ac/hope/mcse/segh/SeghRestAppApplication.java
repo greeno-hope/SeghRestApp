@@ -1,4 +1,4 @@
-package com.example.seghrestapp;
+package uk.ac.hope.mcse.segh;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
